@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="strWeather">Bulbasaur</string>
+    <string name="image">Imagem</string>
+    <string name="title_activity_item1">item1</string>
+    <string name="hello_world">http://professormarcomaddo.blogspot.com.br/</string>
+    <string name="menu_cadastrar">Cadastrar</string>
+    <string name="title_activity_dashboard">Aula 09 - Dashboard</string>
+
+    <string name="title_activity_captura_imagens">Captura de Imagens</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="imagem_descricao">Imagem capturada</string>
+    <string name="botao_capturar_camera">+ Câmera</string>
+    <string name="botao_capturar_galeria">+ Galeria</string>
+    <string name="botao_capturar_deletar">- Deletar</string>
+</resources>

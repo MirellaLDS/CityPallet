@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tipos">
+        <item>Tipos</item>
+        <item>Normal</item>
+        <item>Lutador</item>
+        <item>Voador</item>
+        <item>Venenoso</item>
+        <item>Solo</item>
+        <item>Pedra</item>
+        <item>Inseto</item>
+        <item>Fantasma</item>
+        <item>Aço</item>
+        <item>Fogo</item>
+        <item>Água</item>
+        <item>Grama</item>
+        <item>Elétrico</item>
+        <item>Psiquico</item>
+        <item>Gelo</item>
+        <item>Dragão</item>
+        <item>Trevas</item>
+        <item>Fada</item>
+    </string-array>
+
+    <string-array name="sexo">
+        <item>Feminino</item>
+        <item>Masculino</item>
+    </string-array>
+
+</resources>
