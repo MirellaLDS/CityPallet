@@ -33,7 +33,7 @@
         </activity>
         <activity android:name=".Alterar" >
         </activity>
-        <activity android:name=".cad_tipo" >
+        <activity android:name=".cad_usuario" >
         </activity>
     </application>
 
